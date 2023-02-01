@@ -1,5 +1,13 @@
 # trabalho
 
+Si da fallo al intentar crear pon esto
+ Set-ExecutionPolicy unrestricted
+
+Iniciar en terminal con
+npm run serve
+vue ui
+
+
 ## Project setup
 ```
 npm install
